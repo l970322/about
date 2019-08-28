@@ -9,4 +9,4 @@ Reveal.js写了一个简历
 进入项目目录直接打开index.html
 
 ## 或者您也可以访问在线地址
-> https://l970322.github.io/about/index.html/*
+> https://l970322.github.io/about/index.html
